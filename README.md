@@ -1,4 +1,4 @@
-# Modelo-LaTex-para-Relatorio-FAPESP-Projetos-Tematicos-e-CPA-CPE (ABNT)
+# Modelo LaTex para Relatório FAPESP - Projetos Temàticos e CPA/CPE (ABNT)
 
 Este repositório contém um template LaTeX para relatórios de projetos temáticos e centros de pesquisa aplicada (CPA/CPE) da FAPESP. O template segue as normas ABNT (NBR 14724:2011) e contém estilos, comandos e utilitários para gerar relatórios com layout padronizado.
 
